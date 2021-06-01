@@ -1,5 +1,5 @@
 <p align="right">
-  <img width="100" height="100" src="https://github.com/helioRocha/dio-cities-api/blob/master/blip_series.png">    
+  <img width="100" height="100" src="https://github.com/helioRocha/dio-app-series/blob/master/blip_series.png">    
 </p>
 
 # dio-app-series
